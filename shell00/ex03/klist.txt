@@ -1,0 +1,5 @@
+Credentials cache: API:BCDF4C6D-4A94-41E1-963C-A4528078B98C
+        Principal: mingypar@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb  1 17:46:54 2022  Feb  2 03:46:54 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
